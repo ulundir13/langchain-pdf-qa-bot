@@ -29,3 +29,13 @@ pip install virtualenv
 virtualenv my_env
 source my_env/bin/activate
 pip install -r requirements.txt
+
+## How to Run
+
+Follow these steps to run the QA Bot locally.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ulundir13/langchain-pdf-qa-bot.git
+cd langchain-pdf-qa-bot
